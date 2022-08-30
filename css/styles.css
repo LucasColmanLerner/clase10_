@@ -6,7 +6,7 @@ h1 {
     grid-template-areas: 
     "header"
     "main"
-    "footer" ;
+    "footer";
     grid-template-columns: 100%;
     grid-template-rows: repeat(3, auto);
 }
